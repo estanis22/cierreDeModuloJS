@@ -17,7 +17,7 @@ Al final del archivo app.js, se incluyen varios ejemplos de solicitudes que pued
 # cierreDeModuloJS
 This application was created to complete the Node.js and JavaScript module of the full stack web development course. The goal was to create a car dealership with some functionalities.
 
-## Description:
+## Description:
 The application consists of 2 files: autos.js, which contains an array with cars, and app.js, which contains the corresponding functionalities.
 
 ## Usage:
